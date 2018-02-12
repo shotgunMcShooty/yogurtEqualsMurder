@@ -4,7 +4,7 @@ public class Calculadora {
 	private int num1;
 	private int num2;
 
-	//PENE
+	//Prepucio
 	
 	public Calculadora(int a, int b) {
 		num1 = a;
